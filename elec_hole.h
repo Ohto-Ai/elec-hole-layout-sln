@@ -28,8 +28,9 @@ namespace ohtoai {
         std::string id;
         double x;
         double y;
+        nlohmann::json extra;
 
-        NLOHMANN_DEFINE_TYPE_INTRUSIVE(Hole, id, x, y);
+        NLOHMANN_DEFINE_TYPE_INTRUSIVE(Hole, id, x, y, extra);
     };
 
     /**

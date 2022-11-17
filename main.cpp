@@ -117,40 +117,61 @@ int main(int argc, char** argv)
         {
             "house_poles": [
                 {
-                    "x": 95,
-                    "y": 6,
-                    "id": "#864998"
+                    "x": 47,
+                    "y": 95,
+                    "id": "#476439",
+                    "extra": {
+                        "name": "iHtnQsz"
+                    }
                 },
                 {
-                    "x": 45,
-                    "y": 2,
-                    "id": "#26751"
+                    "x": 2,
+                    "y": 8,
+                    "id": "#55",
+                    "extra": {
+                        "name": "KwpxT"
+                    }
                 },
                 {
-                    "x": 55,
-                    "y": 64,
-                    "id": "#25236"
+                    "x": 85,
+                    "y": 58,
+                    "id": "#966",
+                    "extra": {
+                        "name": "evi"
+                    }
                 },
                 {
-                    "x": 89,
-                    "y": 98,
-                    "id": "#09"
+                    "x": 70,
+                    "y": 16,
+                    "id": "#94",
+                    "extra": {
+                        "name": "hhDhJBAGdrn"
+                    }
                 },
                 {
-                    "x": 77,
-                    "y": 60,
-                    "id": "#7"
+                    "x": 59,
+                    "y": 67,
+                    "id": "#419",
+                    "extra": {
+                        "name": "HNMgK"
+                    }
                 }
             ],
             "group_front_pole": {
-                "x": 44,
-                "y": 64,
-                "id": "#27"
+                "x": 66,
+                "y": 88,
+                "id": "#29",
+                "extra": {
+                    "name": "t"
+                }
             },
             "group_back_pole": {
-                "x": 70,
-                "y": 67,
-                "id": "#81597"
+                "x": 89,
+                "y": 73,
+                "id": "#01",
+                "extra": {
+                    "name": "uVbQ"
+                }
             },
             "group_back_valid": true,
             "group_front_valid": true
@@ -158,61 +179,90 @@ int main(int argc, char** argv)
         {
             "house_poles": [
                 {
-                    "x": 62,
-                    "y": 45,
-                    "id": "#42568"
-                }
-            ],
-            "group_front_pole": {
-                "x": 21,
-                "y": 16,
-                "id": "#718937"
-            },
-            "group_back_pole": {
-                "x": 77,
-                "y": 70,
-                "id": "#335982"
-            },
-            "group_back_valid": true,
-            "group_front_valid": true
-        },
-        {
-            "house_poles": [
+                    "x": 19,
+                    "y": 58,
+                    "id": "#996",
+                    "extra": {
+                        "name": "AfX"
+                    }
+                },
                 {
-                    "x": 91,
-                    "y": 61,
-                    "id": "#975"
+                    "x": 59,
+                    "y": 75,
+                    "id": "#672",
+                    "extra": {
+                        "name": "yztZ"
+                    }
+                },
+                {
+                    "x": 64,
+                    "y": 49,
+                    "id": "#8288",
+                    "extra": {
+                        "name": "qMlolTpYWc"
+                    }
                 }
             ],
             "group_front_pole": {
-                "x": 71,
-                "y": 98,
-                "id": "#23791"
+                "x": 67,
+                "y": 28,
+                "id": "#6752",
+                "extra": {
+                    "name": "NriD"
+                }
             },
             "group_back_pole": {
-                "x": 94,
-                "y": 92,
-                "id": "#941441"
+                "x": 79,
+                "y": 2,
+                "id": "#594",
+                "extra": {
+                    "name": "XdpyEK"
+                }
             },
-            "group_back_valid": true,
-            "group_front_valid": true
+            "group_back_valid": false,
+            "group_front_valid": false
         }
     ],
     "elec_poles": [
         {
-            "x": 92,
-            "y": 78,
-            "id": "#2836"
+            "x": 43,
+            "y": 57,
+            "id": "#6417",
+            "extra": {
+                "name": "Yljr"
+            }
         },
         {
-            "x": 60,
-            "y": 84,
-            "id": "#425384"
+            "x": 2,
+            "y": 31,
+            "id": "#93299",
+            "extra": {
+                "name": "mHDxQJKn"
+            }
         },
         {
             "x": 61,
-            "y": 30,
-            "id": "#591"
+            "y": 17,
+            "id": "#7461",
+            "extra": {
+                "name": "vyoN"
+            }
+        },
+        {
+            "x": 70,
+            "y": 80,
+            "id": "#329466",
+            "extra": {
+                "name": "IjQn"
+            }
+        },
+        {
+            "x": 40,
+            "y": 62,
+            "id": "#415391",
+            "extra": {
+                "name": "d"
+            }
         }
     ]
 }
